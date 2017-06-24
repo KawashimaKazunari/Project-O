@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\TankMove.cs">
+    <Files>
+      <File FileName="Assets\Script\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\characterMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TankMove.cs" Line="39" Column="3" />
+      <File FileName="Assets\Script\ShotmainShell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ShellItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TimeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EnemyShotShell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Radar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TankHeaith.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameStart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
